@@ -4,12 +4,13 @@ Overview
 
 This Streamlit application provides interactive visualizations for various datasets. It's designed to be easily embedded into websites or other applications.
 
-Features:
+Use Cases:
 
-Interactive Plots: Explore data with various plot types (line, bar, scatter, etc.).
-Customizable Visualizations: Tailor plots to specific needs using filters, zoom, and pan.
-Data Uploading: Import your own data in CSV or Excel format.
-Embedding: Easily embed the app into your website using an iframe.
+Dynamic Chart Generation: Create various chart types (line, bar, scatter, etc.) on the fly.
+
+Interactive Data Exploration: Explore data interactively with zoom, pan, and filtering capabilities.
+
+Data-Driven Insights: Gain insights from your data through visual representations.
 
 
 🚀 **Getting Started**
