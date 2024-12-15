@@ -1,0 +1,12 @@
+streamlit~=1.41.0
+protobuf~=5.29.1
+vertexai~=1.71.1
+google-cloud-aiplatform~=1.71.1
+requests~=2.32.3
+pandas~=2.2.3
+geopandas
+folium
+streamlit-folium
+plotly
+requests
+shapely
